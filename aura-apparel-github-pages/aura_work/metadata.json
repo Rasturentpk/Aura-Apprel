@@ -1,0 +1,6 @@
+{
+  "name": "Aura Apparel - Premium Export Fashion Islamabad",
+  "description": "Premium export apparel, leftovers, and overstock fashion retail store in I-8 Markaz, Islamabad, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
